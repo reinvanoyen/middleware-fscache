@@ -1,0 +1,9 @@
+{
+  "name": "reinvanoyen/middlewares-fscache",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ReinVanOyen\\Middlewares\\FsCache\\": "src/"
+    }
+  }
+}
